@@ -1,0 +1,1303 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "TechSly",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Speaker Detail",
+            "screenshot": "screenshots\/speaker-detail.jpg",
+            "source": "templates\/speaker-detail.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/template-kit\/speaker-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Speakers List",
+            "screenshot": "screenshots\/speakers-list.jpg",
+            "source": "templates\/speakers-list.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/template-kit\/speakers-list\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Attendances List",
+            "screenshot": "screenshots\/attendances-list.jpg",
+            "source": "templates\/attendances-list.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/template-kit\/attendances-list\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "How to buy tickets",
+            "screenshot": "screenshots\/how-to-buy-tickets.jpg",
+            "source": "templates\/how-to-buy-tickets.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/template-kit\/how-to-buy-tickets\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Event Venue",
+            "screenshot": "screenshots\/event-venue.jpg",
+            "source": "templates\/event-venue.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/template-kit\/event-venue\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Other Events",
+            "screenshot": "screenshots\/other-events.jpg",
+            "source": "templates\/other-events.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/template-kit\/other-events\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Event Schedule Detail",
+            "screenshot": "screenshots\/event-schedule-detail.jpg",
+            "source": "templates\/event-schedule-detail.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/template-kit\/event-schedule-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Event Schedule",
+            "screenshot": "screenshots\/event-schedule.jpg",
+            "source": "templates\/event-schedule.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/template-kit\/event-schedule\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Footer (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-footer-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-footer-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Header (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-header-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-header-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.10.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.6.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Hero-Image-9.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Hero-Image-9-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speaker-detail.json",
+                    "name": "Speaker Detail"
+                }
+            ],
+            "filesize": 718967,
+            "dimensions": [
+                1440,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/audience-watching-a-business-conference-PCQBTG3"
+        },
+        {
+            "filename": "Speaker-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Speaker-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speaker-detail.json",
+                    "name": "Speaker Detail"
+                },
+                {
+                    "source": "templates\/speakers-list.json",
+                    "name": "Speakers List"
+                },
+                {
+                    "source": "templates\/other-events.json",
+                    "name": "Other Events"
+                },
+                {
+                    "source": "templates\/event-schedule-detail.json",
+                    "name": "Event Schedule Detail"
+                },
+                {
+                    "source": "templates\/event-schedule.json",
+                    "name": "Event Schedule"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 161512,
+            "dimensions": [
+                360,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-businessman-in-suit-standing-at-office-bui-PB6YGEU"
+        },
+        {
+            "filename": "smiling-young-businesswoman-speaking-at-conference-2021-09-24-04-04-38-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/smiling-young-businesswoman-speaking-at-conference-2021-09-24-04-04-38-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speaker-detail.json",
+                    "name": "Speaker Detail"
+                },
+                {
+                    "source": "templates\/speakers-list.json",
+                    "name": "Speakers List"
+                },
+                {
+                    "source": "templates\/how-to-buy-tickets.json",
+                    "name": "How to buy tickets"
+                },
+                {
+                    "source": "templates\/other-events.json",
+                    "name": "Other Events"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 880861,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-young-businesswoman-speaking-at-conference-8JRPVL8"
+        },
+        {
+            "filename": "Hero-Image-4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Hero-Image-4-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers-list.json",
+                    "name": "Speakers List"
+                }
+            ],
+            "filesize": 768398,
+            "dimensions": [
+                1440,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/on-way-to-conference-XBBL9VY"
+        },
+        {
+            "filename": "Speaker-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Speaker-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers-list.json",
+                    "name": "Speakers List"
+                },
+                {
+                    "source": "templates\/other-events.json",
+                    "name": "Other Events"
+                },
+                {
+                    "source": "templates\/event-schedule.json",
+                    "name": "Event Schedule"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 142417,
+            "dimensions": [
+                360,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-woman-wearing-blue-suit-outside-an-office-2AWRB9M"
+        },
+        {
+            "filename": "Speaker-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Speaker-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers-list.json",
+                    "name": "Speakers List"
+                },
+                {
+                    "source": "templates\/other-events.json",
+                    "name": "Other Events"
+                },
+                {
+                    "source": "templates\/event-schedule.json",
+                    "name": "Event Schedule"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 117022,
+            "dimensions": [
+                360,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/thoughtful-young-mixed-race-businessman-with-hand--LRTW8J3"
+        },
+        {
+            "filename": "young-man-with-tablet-standing-in-botanical-garden-2021-08-27-17-58-25-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/young-man-with-tablet-standing-in-botanical-garden-2021-08-27-17-58-25-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers-list.json",
+                    "name": "Speakers List"
+                }
+            ],
+            "filesize": 163979,
+            "dimensions": [
+                360,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-with-tablet-standing-in-botanical-garden-966PV2Y"
+        },
+        {
+            "filename": "business-woman-standing-outside-office-buildings-2021-08-28-11-01-31-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/business-woman-standing-outside-office-buildings-2021-08-28-11-01-31-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers-list.json",
+                    "name": "Speakers List"
+                }
+            ],
+            "filesize": 119911,
+            "dimensions": [
+                360,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-woman-standing-outside-office-buildings-TGV5FCF"
+        },
+        {
+            "filename": "pleased-handsome-business-man-near-business-center-2021-08-29-02-45-34-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/pleased-handsome-business-man-near-business-center-2021-08-29-02-45-34-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers-list.json",
+                    "name": "Speakers List"
+                }
+            ],
+            "filesize": 143928,
+            "dimensions": [
+                360,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-handsome-business-man-near-business-center-FVSSBQG"
+        },
+        {
+            "filename": "Hero-Image-7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Hero-Image-7-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 728721,
+            "dimensions": [
+                1440,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/awesome-office-party-ELQ8MKS"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 24256,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-4.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 20820,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 28352,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-15.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-15.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 41439,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-16.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-16.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 34426,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-10.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 26614,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-14.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 28966,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-11.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 30059,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-13.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 25487,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-8.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 26375,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 22692,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-12.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 27520,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-9.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 22863,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-7.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 22257,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-3.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 24333,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                }
+            ],
+            "filesize": 23211,
+            "dimensions": [
+                173,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXVSPXR"
+        },
+        {
+            "filename": "success-in-business-2021-09-24-03-29-30-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/success-in-business-2021-09-24-03-29-30-utc-1-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/attendances-list.json",
+                    "name": "Attendances List"
+                },
+                {
+                    "source": "templates\/event-venue.json",
+                    "name": "Event Venue"
+                },
+                {
+                    "source": "templates\/event-schedule-detail.json",
+                    "name": "Event Schedule Detail"
+                },
+                {
+                    "source": "templates\/event-schedule.json",
+                    "name": "Event Schedule"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 844920,
+            "dimensions": [
+                1440,
+                961
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/success-in-business-F67VZAG"
+        },
+        {
+            "filename": "Hero-Image-8.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Hero-Image-8-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/how-to-buy-tickets.json",
+                    "name": "How to buy tickets"
+                }
+            ],
+            "filesize": 596021,
+            "dimensions": [
+                1440,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-leader-at-conference-hall-Z32VGAW"
+        },
+        {
+            "filename": "Hero-Image-3.2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/12\/Hero-Image-3.2-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-venue.json",
+                    "name": "Event Venue"
+                }
+            ],
+            "filesize": 334733,
+            "dimensions": [
+                1440,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/office-building-JXYERXH"
+        },
+        {
+            "filename": "empty-auditorium-rows-of-raked-seats-2021-08-31-15-17-28-utc-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/empty-auditorium-rows-of-raked-seats-2021-08-31-15-17-28-utc-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-venue.json",
+                    "name": "Event Venue"
+                }
+            ],
+            "filesize": 619829,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/empty-auditorium-rows-of-raked-seats-WADDWB8"
+        },
+        {
+            "filename": "presentation-2021-08-29-15-19-50-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/presentation-2021-08-29-15-19-50-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-venue.json",
+                    "name": "Event Venue"
+                },
+                {
+                    "source": "templates\/other-events.json",
+                    "name": "Other Events"
+                }
+            ],
+            "filesize": 249743,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/presentation-WWKWNKY"
+        },
+        {
+            "filename": "on-way-to-conference-2021-09-24-03-26-48-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/on-way-to-conference-2021-09-24-03-26-48-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-venue.json",
+                    "name": "Event Venue"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 227438,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/on-way-to-conference-XBBL9VY"
+        },
+        {
+            "filename": "office-building-2021-08-29-23-20-04-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/office-building-2021-08-29-23-20-04-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-venue.json",
+                    "name": "Event Venue"
+                }
+            ],
+            "filesize": 414884,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/office-building-JXYERXH"
+        },
+        {
+            "filename": "group-of-business-people-in-the-conference-room-2021-08-27-09-41-57-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/group-of-business-people-in-the-conference-room-2021-08-27-09-41-57-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-venue.json",
+                    "name": "Event Venue"
+                },
+                {
+                    "source": "templates\/other-events.json",
+                    "name": "Other Events"
+                }
+            ],
+            "filesize": 224514,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-business-people-in-the-conference-room-HHZHUDP"
+        },
+        {
+            "filename": "female-leader-at-conference-hall-2021-08-27-22-14-10-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/female-leader-at-conference-hall-2021-08-27-22-14-10-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-venue.json",
+                    "name": "Event Venue"
+                }
+            ],
+            "filesize": 196796,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-leader-at-conference-hall-Z32VGAW"
+        },
+        {
+            "filename": "corporate-business-team-and-manager-in-a-meeting-2021-09-02-08-41-01-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/corporate-business-team-and-manager-in-a-meeting-2021-09-02-08-41-01-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-venue.json",
+                    "name": "Event Venue"
+                },
+                {
+                    "source": "templates\/other-events.json",
+                    "name": "Other Events"
+                }
+            ],
+            "filesize": 178651,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/corporate-business-team-and-manager-in-a-meeting-V8SECG5"
+        },
+        {
+            "filename": "Hero-Image-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Hero-Image-1-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/other-events.json",
+                    "name": "Other Events"
+                }
+            ],
+            "filesize": 568034,
+            "dimensions": [
+                1440,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/corporate-business-team-and-manager-in-a-meeting-V8SECG5"
+        },
+        {
+            "filename": "Hero-Image-6.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Hero-Image-6-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-schedule-detail.json",
+                    "name": "Event Schedule Detail"
+                }
+            ],
+            "filesize": 622500,
+            "dimensions": [
+                1440,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/seminars-and-business-meetings-in-company-office-V6S3F66"
+        },
+        {
+            "filename": "Hero-Image-5.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Hero-Image-5-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-schedule.json",
+                    "name": "Event Schedule"
+                }
+            ],
+            "filesize": 691251,
+            "dimensions": [
+                1440,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/presentation-WWKWNKY"
+        },
+        {
+            "filename": "logoipsum-logo-8.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/logoipsum-logo-8.png",
+            "templates": [
+                {
+                    "source": "templates\/event-schedule.json",
+                    "name": "Event Schedule"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1319,
+            "dimensions": [
+                191,
+                38
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-6.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/logoipsum-logo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/event-schedule.json",
+                    "name": "Event Schedule"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1044,
+            "dimensions": [
+                164,
+                37
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-5.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/logoipsum-logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/event-schedule.json",
+                    "name": "Event Schedule"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1249,
+            "dimensions": [
+                168,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logoipsum-logo-4.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/logoipsum-logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/event-schedule.json",
+                    "name": "Event Schedule"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 1701,
+            "dimensions": [
+                137,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Hero-Image-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Hero-Image-2-800x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 697469,
+            "dimensions": [
+                1440,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-business-people-in-the-conference-room-HHZHUDP"
+        },
+        {
+            "filename": "Icon1.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Icon1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1944,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/office-icons-HUP244"
+        },
+        {
+            "filename": "Icon2.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Icon2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1444,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/office-icons-HUP244"
+        },
+        {
+            "filename": "Icon4.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Icon4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1810,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/office-icons-HUP244"
+        },
+        {
+            "filename": "Icon3.png",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/Icon3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2078,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/office-icons-HUP244"
+        },
+        {
+            "filename": "audience-watching-a-business-conference-2021-08-26-16-13-50-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/audience-watching-a-business-conference-2021-08-26-16-13-50-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 398301,
+            "dimensions": [
+                800,
+                530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/audience-watching-a-business-conference-PCQBTG3"
+        },
+        {
+            "filename": "seminars-and-business-meetings-in-company-office-2021-08-28-20-01-35-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/seminars-and-business-meetings-in-company-office-2021-08-28-20-01-35-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 319644,
+            "dimensions": [
+                800,
+                530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/seminars-and-business-meetings-in-company-office-V6S3F66"
+        },
+        {
+            "filename": "awesome-office-party-2021-09-24-03-52-57-utc.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/awesome-office-party-2021-09-24-03-52-57-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 394601,
+            "dimensions": [
+                800,
+                530
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/awesome-office-party-ELQ8MKS"
+        },
+        {
+            "filename": "business-seminar-2021-09-24-02-41-01-utc-2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/11\/business-seminar-2021-09-24-02-41-01-utc-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 682360,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-seminar-P3AM53G"
+        },
+        {
+            "filename": "group-of-people-clapping-while-listening-to-presen-2021-09-02-15-10-34-utc-1.2.jpg",
+            "thumbnail_url": "https:\/\/templatekit.tokomoo.com\/eventkit\/wp-content\/uploads\/sites\/41\/2021\/12\/group-of-people-clapping-while-listening-to-presen-2021-09-02-15-10-34-utc-1.2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 196664,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-people-clapping-while-listening-to-presen-YS2WLNZ"
+        }
+    ]
+}
